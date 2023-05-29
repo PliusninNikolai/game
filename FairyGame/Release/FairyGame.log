@@ -1,0 +1,29 @@
+﻿  Bullet.cpp
+E:\FairyGame\FairyGame\game_object.h(4,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  game.cpp
+E:\FairyGame\FairyGame\game.h(4,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  game_level.cpp
+E:\FairyGame\FairyGame\game_level.h(5,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  game_object.cpp
+E:\FairyGame\FairyGame\game_object.h(4,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  hero.cpp
+E:\FairyGame\FairyGame\hero.h(4,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  main.cpp
+E:\FairyGame\FairyGame\main.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  mob_flower.cpp
+E:\FairyGame\FairyGame\mob_flower.h(4,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  resource_manager.cpp
+E:\FairyGame\FairyGame\resource_manager.h(7,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  shader.cpp
+E:\FairyGame\FairyGame\shader.h(6,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  shield.cpp
+E:\FairyGame\FairyGame\shield.h(4,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  sprite_animation.cpp
+E:\FairyGame\FairyGame\sprite_animation.h(4,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  sprite_renderer.cpp
+E:\FairyGame\FairyGame\sprite_renderer.h(4,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  stb_image.cpp
+  texture.cpp
+E:\FairyGame\FairyGame\texture.h(4,10): fatal  error C1083: Не удается открыть файл включение: glad/glad.h: No such file or directory,
+  text_renderer.cpp
+E:\FairyGame\FairyGame\text_renderer.cpp(11,10): fatal  error C1083: Не удается открыть файл включение: glm/gtc/matrix_transform.hpp: No such file or directory,
